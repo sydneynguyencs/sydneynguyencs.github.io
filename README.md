@@ -1,1 +1,4 @@
-# sydneynguyencs.github.io
+# Introductory blog post
+
+
+My name is Sydney, and I did my Bachelor's in Computer Science. In my thesis, I used machine learning to identify false information in social media, specifically Tweets. I believe, this kind of research is useful in today's digital age, where false information can have serious consequences. As a result of this, I became intrigued by AI as it can be used to solve current problems. In this module, I would like to learn more about AI, specifically explainable AI, so that I can interpret the black box thinking and understand what it does. To do so, I will need to gain experience working with scientific resources, such as reading a paper with limited knowledge. Additionally, I would like to learn how to communicate in a scientific setting and debate topics with peers from the same scientific community.
